@@ -1,0 +1,51 @@
+body{
+    background-color: #35404f;
+    padding:0;
+    margin:0;
+}
+
+.container {
+    padding: 100px;
+    background: #222D3A;
+}
+
+.shape {
+    margin:100px auto;
+    font-family: 'Homenaje', sans-serif;
+    text-shadow: rgb(205, 86, 77) 1px 1px,
+    rgb(205, 86, 77) 2px 2px,
+    rgb(205, 86, 77) 3px 3px,
+    rgb(205, 86, 77) 4px 4px,
+    rgb(205, 86, 77) 5px 5px,
+    rgb(205, 86, 77) 6px 6px,
+    rgb(205, 86, 77) 7px 7px,
+    rgb(205, 86, 77) 8px 8px,
+    rgb(205, 86, 77) 9px 9px,
+    rgb(205, 86, 77) 10px 10px,
+    rgb(205, 86, 77) 11px 11px,
+    rgb(205, 86, 77) 12px 12px,
+    rgb(206, 86, 77) 13px 13px,
+    rgb(207, 87, 78) 14px 14px,
+    rgb(208, 87, 78) 15px 15px,
+    rgb(210, 88, 79) 16px 16px,
+    rgb(211, 88, 79) 17px 17px,
+    rgb(212, 89, 80) 18px 18px,
+    rgb(213, 89, 80) 19px 19px,
+    rgb(215, 90, 81) 20px 20px,
+    rgb(216, 90, 81) 21px 21px,
+    rgb(217, 91, 82) 22px 22px,
+    rgb(219, 91, 82) 23px 23px,
+    rgb(220, 92, 83) 24px 24px,
+    rgb(221, 92, 83) 25px 25px,
+    rgb(222, 93, 84) 26px 26px,
+    rgb(224, 93, 84) 27px 27px,
+    rgb(225, 94, 85) 28px 28px,
+    rgb(226, 94, 85) 29px 29px,
+    rgb(228, 95, 86) 30px 30px;
+    background-color: rgb(228, 95, 86);
+    height: 150px;
+    width: 250px;
+    font-size: 75px;
+    line-height: 150px;
+    text-align: center;
+}
